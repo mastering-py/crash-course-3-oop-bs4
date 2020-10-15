@@ -1,2 +1,2 @@
-# crash-course-3-oop-bs4
-Using Beautiful Soup 4 Package
+# crash-course-3-oop-beautifulsoup4
+Studi Kasus OOP: Menggunakan BeautifulSoup4
